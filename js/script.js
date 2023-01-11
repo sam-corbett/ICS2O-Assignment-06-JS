@@ -25,6 +25,8 @@ const getCat = async (URLAddress) => {
     const result = await fetch(URLAddress)
     const jsonData = await result.json()
     console.log(jsonData[0].url)
+    document.getElementById("api-image").innerHTML = '<img src"https://cdn2.thecatapi.com/images/' + '@2x.png" alt="API image" class="center" width= 20% height 20%' +
+      ">"
 
 
 
