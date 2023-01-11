@@ -16,8 +16,6 @@ if (navigator.serviceWorker) {
 }
 
 /**
- * This function displays an alert.
+ * Get API info.
  */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
-}
+// code from: https://www.youtube.com/watch?v=670f71LTWpM
