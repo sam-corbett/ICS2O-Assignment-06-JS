@@ -19,3 +19,18 @@ if (navigator.serviceWorker) {
  * Get API info.
  */
 // code from: https://www.youtube.com/watch?v=670f71LTWpM
+
+const getCat = async (URLAddress) => {
+  try {
+    const result = await fetch(URLAddress)
+    const jsonData = await result.json()
+    console.log(jsonData[0].url)
+
+
+
+  } catch (err) {
+    console.log(err)
+  }
+}
+
+getCat("https://api.thecatapi.com/v1/images/search")
