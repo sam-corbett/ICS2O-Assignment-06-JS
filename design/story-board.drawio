@@ -10,14 +10,11 @@
                 <mxCell id="3" value="Random Cat Breed Generator, API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="80" width="400" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
-                    <mxGeometry x="222.5" y="150" width="115" height="120" as="geometry"/>
+                <mxCell id="6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="1" vertex="1">
+                    <mxGeometry x="222.5" y="180" width="115" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="Image of a Cat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="225" y="120" width="110" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="8" value="Cat Breed:____&lt;br&gt;Cat Origin:____&lt;br&gt;Cat Temperament:____" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="202.5" y="290" width="155" height="30" as="geometry"/>
+                <mxCell id="7" value="&lt;div&gt;Do you like cats?&lt;/div&gt;&lt;div&gt;If you do, refresh the page to see a new randomly generated image!&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="87.5" y="130" width="385" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
